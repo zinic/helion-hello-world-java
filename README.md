@@ -2,6 +2,11 @@
 
 This is a very simple Servlet-based Java webapp. 
 
+## Deploy to HP Helion
+<a href="https://deploynow.hpcloud.com/?repoUrl=https://github.com/HelionDevPlatform/helion-hello-world-java">
+![Helion  Logo](https://a248.e.akamai.net/cdn.hpcloudsvc.com/g0bc199ab57e65f093a48d069effc0c3b/prodae1//button.png?id=6)
+</a>
+
 Manifest.yml is a config file used to specify settings that would otherwise be
 specified at the command line when using the Helion Client. 
 
